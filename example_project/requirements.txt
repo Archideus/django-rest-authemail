@@ -1,5 +1,5 @@
 Django>=1.10.4
 django-rest-authemail==1.4.0
 djangorestframework>=3.5.3
-requests>=2.3.0
+requests>=2.32.0
 wsgiref>=0.1.2
