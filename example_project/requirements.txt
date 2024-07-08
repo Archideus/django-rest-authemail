@@ -3,3 +3,4 @@ django-rest-authemail==1.4.0
 djangorestframework>=3.5.3
 requests>=2.3.0
 wsgiref>=0.1.2
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
