@@ -1,4 +1,4 @@
-Django>=1.10.4
+Django>=4.2.20
 django-rest-authemail==1.4.0
 djangorestframework>=3.5.3
 requests>=2.3.0
